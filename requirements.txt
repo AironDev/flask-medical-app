@@ -1,0 +1,9 @@
+flask
+torch
+monai
+nibabel
+matplotlib
+torchvision
+pillow
+nibabel
+numpy
